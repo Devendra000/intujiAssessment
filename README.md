@@ -1,3 +1,3 @@
 # intujiAssessment
 <br>
-'php artisan migrate" first
+'php artisan migrate' first
